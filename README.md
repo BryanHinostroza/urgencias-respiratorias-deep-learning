@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![Status](https://img.shields.io/badge/Status-Finalizado-success)
-[![Open In Colab](https://colab.research.google.com/drive/1ZXD6uYnlMKP-Zp6LxS8MoIvsU5VyGocA?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/1ZXD6uYnlMKP-Zp6LxS8MoIvsU5VyGocA?usp=sharing))
 
 > **Proyecto de Titulación / Deep Learning:** Predicción de demanda y Clustering espacial mediante redes LSTM híbridas y Aprendizaje Contrastivo (Triplet Loss).
 
