@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Finalizado-success)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZXD6uYnlMKP-Zp6LxS8MoIvsU5VyGocA?usp=sharing)
 
-> **Proyecto de Titulación / Deep Learning:** Predicción de demanda y Clustering espacial mediante redes LSTM híbridas y Aprendizaje Contrastivo (Triplet Loss).
+> **Proyecto Final de Curso / Deep Learning:** Predicción de demanda y Clustering espacial mediante redes LSTM híbridas y Aprendizaje Contrastivo (Triplet Loss).
 
 ## 📄 Documentación
 * 📘 **[Leer Informe Técnico Completo (PDF)](docs/Informe_Final_Hinostroza_Yanine.pdf)**
