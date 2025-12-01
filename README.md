@@ -8,7 +8,7 @@
 > **Proyecto Final de Curso / Deep Learning:** Predicción de demanda y Clustering espacial mediante redes LSTM híbridas y Aprendizaje Contrastivo (Triplet Loss).
 
 ## 📄 Documentación
-* 📘 **[Leer Informe Técnico Completo (PDF)](docs/Informe_Final_Hinostroza_Yanine.pdf)**
+* 📘 **[Leer Informe Técnico Completo (PDF)](Informe_Final_Hinostroza_Yanine.pdf)**
 * 🎬 **[Ver Presentación del Proyecto (YOUTUBE)](https://www.youtube.com/watch?v=sleZWxBlpD8)**
 
 ## 📌 Contexto y Problemática
